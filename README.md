@@ -36,6 +36,6 @@ Version Control:<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Live Projects:<br>
-[Wanderlust:](https://project-wanderlust-qoph.onrender.com)
+[Wanderlust:](https://project-wanderlust-qoph.onrender.com/listings)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
