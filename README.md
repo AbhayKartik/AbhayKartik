@@ -36,5 +36,6 @@ Version Control:<br>
 
 Projects:<br>
 [Wanderlust:](https://project-wanderlust-qoph.onrender.com/listings)
+[Investa:](https://investa-frontend.vercel.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
