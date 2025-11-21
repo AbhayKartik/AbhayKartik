@@ -35,7 +35,7 @@ Version Control:<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Projects:<br>
-[Wanderlust:](https://project-wanderlust-qoph.onrender.com/listings)
+[Wanderlust:](https://project-wanderlust-qoph.onrender.com/listings) <br>
 [Investa:](https://investa-frontend.vercel.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
